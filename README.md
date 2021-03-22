@@ -27,7 +27,7 @@
 
 ## 🖼️ Sample Preview
 
-<img src="https://user-images.githubusercontent.com/73432552/97168487-8ea72880-17ae-11eb-9fed-c3b50bb165d5.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/73432552/97168487-8ea72880-17ae-11eb-9fed-c3b50bb165d5.png" width="500" height="200">
 
 ## 📒 Authors 
 
