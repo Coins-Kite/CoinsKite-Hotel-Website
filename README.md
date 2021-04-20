@@ -2,7 +2,7 @@
 
 # ⭐ Star Hotel 
 
-### This Chat App is Made Using HTML And CSS 
+### This Website is Made Using HTML And CSS 
 
 ### 📲 Installing 
 
