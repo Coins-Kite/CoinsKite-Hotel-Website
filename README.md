@@ -21,7 +21,7 @@
 * HTML
 * CSS
 
-##  Check Out My Instagram Page 📃
+##  Check Out our Instagram Page 📃
 
 [CoinsKite](https://instagram.com/coinskite)
 
